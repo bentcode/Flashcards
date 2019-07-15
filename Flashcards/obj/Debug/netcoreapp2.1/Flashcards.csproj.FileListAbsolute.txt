@@ -1,0 +1,11 @@
+Z:\James\Learning\Projects\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.deps.json
+Z:\James\Learning\Projects\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.runtimeconfig.json
+Z:\James\Learning\Projects\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.runtimeconfig.dev.json
+Z:\James\Learning\Projects\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.dll
+Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.csprojAssemblyReference.cache
+Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.csproj.CoreCompileInputs.cache
+Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.AssemblyInfoInputs.cache
+Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.AssemblyInfo.cs
+Z:\James\Learning\Projects\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.pdb
+Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.dll
+Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.pdb
