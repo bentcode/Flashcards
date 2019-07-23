@@ -728,24 +728,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\James\\.nuget\\packages\\": {},
+    "C:\\Users\\bentcode\\.nuget\\packages\\": {},
+    "E:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\James\\Learning\\Projects\\Flashcards\\Flashcards\\Flashcards.csproj",
+      "projectUniqueName": "E:\\Repos\\Flashcards\\Flashcards\\Flashcards.csproj",
       "projectName": "Flashcards",
-      "projectPath": "Z:\\James\\Learning\\Projects\\Flashcards\\Flashcards\\Flashcards.csproj",
-      "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-      "outputPath": "Z:\\James\\Learning\\Projects\\Flashcards\\Flashcards\\obj\\",
+      "projectPath": "E:\\Repos\\Flashcards\\Flashcards\\Flashcards.csproj",
+      "packagesPath": "C:\\Users\\bentcode\\.nuget\\packages\\",
+      "outputPath": "E:\\Repos\\Flashcards\\Flashcards\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "E:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\bentcode\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -769,6 +772,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

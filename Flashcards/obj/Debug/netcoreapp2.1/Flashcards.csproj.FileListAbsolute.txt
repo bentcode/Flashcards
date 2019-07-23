@@ -9,3 +9,14 @@ Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashca
 Z:\James\Learning\Projects\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.pdb
 Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.dll
 Z:\James\Learning\Projects\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.pdb
+E:\Repos\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.csprojAssemblyReference.cache
+E:\Repos\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.csproj.CoreCompileInputs.cache
+E:\Repos\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.AssemblyInfoInputs.cache
+E:\Repos\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.AssemblyInfo.cs
+E:\Repos\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.dll
+E:\Repos\Flashcards\Flashcards\obj\Debug\netcoreapp2.1\Flashcards.pdb
+E:\Repos\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.deps.json
+E:\Repos\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.runtimeconfig.json
+E:\Repos\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.runtimeconfig.dev.json
+E:\Repos\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.dll
+E:\Repos\Flashcards\Flashcards\bin\Debug\netcoreapp2.1\Flashcards.pdb

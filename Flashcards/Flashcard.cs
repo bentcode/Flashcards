@@ -10,14 +10,22 @@ namespace Bentcode.Learning.Flashcards
   class Flashcard : IFlashcard
   {
     [DataMember]
-    public string SideA_Text { get; set; }
+    public string QuestionText { get; set; }
     [DataMember]
-    public string SideB_Text { get; set; }
+    public string AnwserText { get; set; }
+
+    [DataMember]
+    public DateTime NextReview { get; set; }
+    [DataMember]
+    public DateTime[] ReviewHistory { get; set; }
+
+    [DataMember]
+    public bool ReversibleQandA { get; set; }
 
     public Flashcard(string SideA, string SideB)
     {
-      this.SideA_Text = SideA;
-      this.SideB_Text = SideB;
+      this.QuestionText = SideA;
+      this.AnwserText = SideB;
     }
   }
 }
