@@ -7,7 +7,7 @@ using System.Text;
 namespace Bentcode.Learning.Flashcards
 {
   [DataContract]
-  class Flashcard : IFlashcard
+  public abstract class Flashcard
   {
     [DataMember]
     public string QuestionText { get; set; }

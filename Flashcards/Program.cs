@@ -20,17 +20,13 @@ namespace Bentcode.Learning.Flashcards
       // 3. Modify an existing deck
       // 4. Exit this application
 
-      FlashcardCLIViewer.GetAvailableDecks(dataLocation);
-      FlashcardCLIViewer.DisplayMenu();
+      List<QAFlashcard> Deck = FlashcardCLIViewer.GetAvailableDecks(dataLocation);
 
-      List<IFlashcard> Deck = new List<IFlashcard>() {
-        new Flashcard("Alpha","Alpha Answer"),
-        new Flashcard("Beta", "Beta Answer")
-      };
+      int result = FlashcardCLIViewer.PromptUser();        
 
-      Deck.Add(new Flashcard("Delta", "Delta Answer"));
+      //FlashcardCLIViewer.WriteOutDeck(Deck, dataLocation);
 
-      foreach (IFlashcard card in Deck)
+      foreach (Flashcard card in Deck)
       {
         Console.WriteLine($"SideA: {card.QuestionText}; \tSideB: {card.AnwserText}");
       }
