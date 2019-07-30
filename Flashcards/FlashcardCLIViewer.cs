@@ -8,28 +8,28 @@ namespace Bentcode.Learning.Flashcards
 {
   class FlashcardCLIViewer
   {
-    public static List<QAFlashcard> GetAvailableDecks(string path)
+    public static Deck GetAvailableDecks(string path)
     {
       // Test this is a valid path.
       if (IsValidPath(path) == false) return null;
 
-      List<QAFlashcard> Deck = new List<QAFlashcard>();
+      Deck deck = new Deck("CSharp");
 
       using (StreamReader DeckFile = new StreamReader(path))
       {
         string line = DeckFile.ReadToEnd();
-        Deck = JsonConvert.DeserializeObject<List<QAFlashcard>>(line);
+        deck = JsonConvert.DeserializeObject<Deck>(line);
       }
 
-      return Deck;
+      return deck;
     }
 
 
-    public static void WriteOutDeck(List<Flashcard> Deck, string path)
+    public static void WriteOutDeck(Deck deck, string path)
     {
       using (StreamWriter DeckFile = new StreamWriter(path))
       {
-        DeckFile.Write(Deck);
+        DeckFile.Write(deck);
       }
     }
 

@@ -1,0 +1,17 @@
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\Flashcards.Tests.deps.json
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\Flashcards.Tests.runtimeconfig.json
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\Flashcards.Tests.runtimeconfig.dev.json
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\Flashcards.Tests.dll
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\Flashcards.Tests.pdb
+E:\Repos\Flashcards\test\Flashcards.Tests\obj\Debug\netcoreapp2.2\Flashcards.Tests.csprojAssemblyReference.cache
+E:\Repos\Flashcards\test\Flashcards.Tests\obj\Debug\netcoreapp2.2\Flashcards.Tests.csproj.CoreCompileInputs.cache
+E:\Repos\Flashcards\test\Flashcards.Tests\obj\Debug\netcoreapp2.2\Flashcards.Tests.AssemblyInfoInputs.cache
+E:\Repos\Flashcards\test\Flashcards.Tests\obj\Debug\netcoreapp2.2\Flashcards.Tests.AssemblyInfo.cs
+E:\Repos\Flashcards\test\Flashcards.Tests\obj\Debug\netcoreapp2.2\Flashcards.Tests.dll
+E:\Repos\Flashcards\test\Flashcards.Tests\obj\Debug\netcoreapp2.2\Flashcards.Tests.pdb
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\Flashcards.dll
+E:\Repos\Flashcards\test\Flashcards.Tests\bin\Debug\netcoreapp2.2\Flashcards.pdb
+E:\Repos\Flashcards\test\Flashcards.Tests\obj\Debug\netcoreapp2.2\Flashcards.Tests.csproj.CopyComplete

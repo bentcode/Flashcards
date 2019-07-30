@@ -6,6 +6,23 @@ namespace Bentcode.Learning.Flashcards
 {
   public class Deck
   {
+    public Deck() => Cards = new List<Flashcard> { };
+    public Deck(string deckName) : this() => DeckName = deckName;  
+    public Deck(string deckName, string informationSource) : this(deckName) => InformationSource = informationSource;
+    public Deck(string deckName, string informationSource, string informationLocation) : this(deckName, informationSource) => InformationLocation = informationLocation;
+    
+  
+
+    public Flashcard this[int index]
+    {
+      get => this.Cards[index];
+    }
+
+    public int Length()
+    {
+      return this.Cards.Count;
+    }
+
     public string DeckName { get; set; }
     public string InformationSource { get; set; }
     public string InformationLocation { get; set; }
@@ -13,8 +30,19 @@ namespace Bentcode.Learning.Flashcards
 
     public string FullName
     {
-      get => $"{ InformationSource} { InformationLocation}";
-      set => FullName = $"{ InformationSource} { InformationLocation}";
+      get
+      {
+        if (InformationSource == null)
+        {
+          return $"{DeckName}";
+        }
+        else if (InformationLocation == null)
+        {
+          return $"{DeckName} - { InformationSource}";
+        }
+
+        return $"{DeckName} - { InformationSource} - { InformationLocation}";
+      }
     }
   }
 }
